@@ -13,7 +13,8 @@ Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, o
 
 It has 2 separate printed pieces. The base where the PCB sits and the top cover.
 
-[INSERT COMPLETE CAD MODEL PHOTO]
+<img width="714" height="441" alt="image" src="https://github.com/user-attachments/assets/56ac127b-2811-4a00-a215-49c9124abf8d" />
+
 
 Made in Fusion360.
 
@@ -22,9 +23,9 @@ PCB
 
 Here's the PCB. It was made in KiCad.
 
-[PiCAD Schematic PHOTO]
+<img width="421" height="508" alt="image" src="https://github.com/user-attachments/assets/870ecd55-bc23-4654-a2a2-6fcce87c9fd3" />
 
-[PCB Schematic Photo]
+<img width="443" height="439" alt="image" src="https://github.com/user-attachments/assets/6f60af09-88ad-4fe2-829e-ff1c77c1b3da" />
 
 Firmware Overview
 
